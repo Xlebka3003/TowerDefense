@@ -1,0 +1,33 @@
+.menu{
+    display: flex;
+    position: fixed;
+    top: 0px;
+    justify-content: center;
+    height: 160px;
+    width: 100%;
+    background-color: black;
+}
+
+.menu-list{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style-type: none;
+}
+
+.menu-text{
+    display: flex;
+    margin: 0px 80px;
+    color: white;
+    font-size: 30px;
+}
+
+.menu-text:hover{
+    cursor: pointer;
+    color: #3CA8D4;
+}
+
+.menu-text a:hover{
+    cursor: pointer;
+    color: #3CA8D4;
+}

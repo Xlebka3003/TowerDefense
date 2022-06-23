@@ -1,0 +1,140 @@
+.product-uptext-discription{
+    width: 716px;
+    height: 370px;
+    color:white;
+    margin: 0px 20px 0px 0px;
+}
+
+.product-up{    
+    width: 1650px;
+    height: 850px;
+    background-color: black;
+    border-radius: 70px;
+    margin: 120px 0px 70px 0px;
+}
+
+.product-down{
+    display: flex;
+    width: 1650px;
+    justify-content: space-between;
+}
+
+.product-onedown{
+    width: 1150px;
+    height: 1200px;
+    background-color: black;
+    border-radius: 70px;
+}
+
+.product-twodown{
+    width: 450px;
+    height: 1200px;
+    background-color: black;
+    border-radius: 70px;
+}
+
+.product-stars{
+    display: flex;
+    width: 434px;
+    height: 69px;
+    justify-content: space-between;
+}
+
+.product-semistar{
+    width: 69px;
+    height: 69px;
+    background: url(../image/catalog/bigstar.png);
+}
+
+.product-star{
+    width: 69px;
+    height: 69px;
+    background: url(../image/catalog/bigstar.png);
+}
+
+.product-uptext{
+    margin: 40px 0px 40px 100px
+}
+
+.product-uptext-down{
+    display: flex;
+    justify-content: space-between;
+}
+
+.product-uptext-image{
+    margin-top: 48px
+}
+
+.product-button{
+    display: flex;
+    justify-content: center;
+    width: 500px;
+    height: 100px;
+    box-shadow: 0px 5px 20px rgba(255, 255, 255, 0.5);
+    background: #003261;
+    border-radius: 30px;
+}
+
+.product-onedown-text{
+    margin: 12px 0px 0px 64px;
+}
+
+.product-twodown-text{
+    margin: 12px 0px 0px 32px;
+}
+
+.product-discription{
+    color: white;
+    font-size: 30px;
+}
+
+.withthat{
+    width: 1650px;
+    display: flex;
+    flex-direction: column;
+    margin: 48px 0px 100px 0px;
+}
+
+.withthat-cards{
+    margin-top: 24px;
+    display: flex;
+}
+
+.withthat-card{
+    width: 360px;
+    height: 480px;
+    background: black;
+    border-radius: 40px;
+}
+
+.product-link{
+    display: flex;
+    margin-right: 32px;
+}
+
+.withthat-card-text{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    color:white;
+    margin: 20px 40px 48px 40px;
+}
+
+.withthat-card-stars{
+    display: flex;
+    width: 104px;
+    height: 20px;
+    margin-left: 4px;
+}
+
+.withthat-card-star{
+    width: 20px;
+    height: 20px;
+    background: url(../image/catalog/star.png);
+}
+
+.withthat-card-nonestar{
+    width: 20px;
+    height: 20px;
+    background: url(../image/catalog/nonestar.png);
+}
